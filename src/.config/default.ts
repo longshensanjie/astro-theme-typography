@@ -7,7 +7,7 @@ export const defaultConfig: ThemeConfig = {
   site: {
     title: '泥封',
     subtitle: 'Typography',
-    author: 'Echo,
+    author: 'Echo',
     description: 'Rediscory the beauty of typography',
     website: 'https://astro-theme-typography.vercel.app/',
     pageSize: 5,
